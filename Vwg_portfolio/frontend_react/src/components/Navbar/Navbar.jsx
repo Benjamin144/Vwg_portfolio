@@ -9,5 +9,3 @@ const Navbar = () => {
 }
 
 export default Navbar
-
-import './About.scss';
